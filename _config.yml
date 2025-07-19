@@ -1,0 +1,29 @@
+baseurl: /hankelvin.github.io
+title: Kelvin's blog
+subtitle: ~~~~~
+author: Kelvin Han
+simple_search: http://google.com/search
+description: ~~~~~
+name: kelvinhan
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:short_year/:title
+timezone: Asia/Singapore
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+theme: jekyll-theme-tufte
+plugins:
+  - jekyll-theme-tufte
+  # - jekyll-sitemap
+  # - jekyll-feed
+  # - jemoji
+  # - jekyll-include-cache
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md', '_drafts', ]
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: master
