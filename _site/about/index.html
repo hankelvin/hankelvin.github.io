@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>About</title>
+  <meta name="description" content="~~~~~">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+    <link href='//fonts.googleapis.com/css?family=Lato:400,400italic' rel='stylesheet' type='text/css'>
+  
+  
+<!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: [
+      "MathMenu.js",
+      "MathZoom.js",
+      "AssistiveMML.js",
+      "a11y/accessibility-menu.js"
+    ],
+    jax: ["input/TeX", "output/CommonHTML"],
+    TeX: {
+      extensions: [
+        "AMSmath.js",
+        "AMSsymbols.js",
+        "noErrors.js",
+        "noUndefined.js",
+      ]
+    }
+  });
+</script>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
+
+
+  <link rel="stylesheet" type="text/css" href="/hankelvin.github.io/css/tufte.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/hankelvin.github.io/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="http://localhost:4000/hankelvin.github.io/about/">
+
+  <link rel="alternate" type="application/rss+xml" title="Kelvin's blog" href="http://localhost:4000/hankelvin.github.io/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+	<a href="/hankelvin.github.io/"><img class="badge" src="/hankelvin.github.io/assets/img/L1016424.png" alt="CH"></a>
+	
+		
+  	
+		
+		    
+		      <a href="/hankelvin.github.io/">posts</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/hankelvin.github.io/page/">Stuff</a>
+		    
+	    
+  	
+		
+		    
+		      <a class="active" href="/hankelvin.github.io/about/" class="active">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/hankelvin.github.io/css/print.css"></a>
+		    
+	    
+  	
+		
+  	
+		
+		    
+		      <a href="/hankelvin.github.io/assets/css/latex.css"></a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/hankelvin.github.io/assets/css/main.css"></a>
+		    
+	    
+  	
+	</nav>
+</header>
+    <article class="group">
+      <p>👋 Hi! My name is Kelvin, I have been working on ways to automatically process questions (generating, decomposing and answering ❓❓❓) for the last 5 years, from text, from knowledge graph, simple to complex.</p>
+
+<p>I did my PhD (on question generation, naturally) at the <a href="https://www.univ-lorraine.fr/en/univ-lorraine/">Université de Lorraine</a> in the lovely city of <a href="https://en.wikipedia.org/wiki/Nancy,_France">Nancy, France</a> under the supervision of <a href="https://members.loria.fr/CGardent">Claire Gardent</a> and <a href="https://scholar.google.com/citations?user=WvXZlDIAAAAJ">Thiago Castro Ferreira</a>. My PhD was carried out under <a href="https://anr.fr/Project-ANR-19-CE23-0025">Project QUANTUM</a> which was funded by the French National Research Agency (<em>Agence National de Recherche, ANR</em>), and I was part of the <a href="https://synalp.gitlabpages.inria.fr/synalp-website">Synalp</a> team (now within the MosAIk group) at the <a href="https://www.loria.fr/en/">LORIA</a> (<em>Laboratoire lorrain de Recherche en Informatique et ses Applications</em>) laboratory.</p>
+
+<!-- Before that, I did my MSc (Natural Language Processing) at the [_Institut des sciences du Digital, Management & Cognition (IDMC)_](https://idmc.univ-lorraine.fr/) in the Université de Lorraine. I also hold an MA (South-east Asian Studies) from the National University of Singapore where I focused on Indonesian political economy. I did my BSc (Economics) with a minor in Political Science from the Singapore Management University. -->
+
+<p>Recently, I’ve been working on question generation useful for discourse representations and on post-training LLMs with reinforcement learning. Some of my recent work can be found here:</p>
+
+<p>     ⚒️ <a href="https://github.com/hankelvin/complex_question_decomposition">decomposing complex questions</a> <label for="sidenote-decomp" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sidenote-decomp" class="margin-toggle" checked="" /><span class="sidenote">Here I proposed the use of panels of smaller-sized LLMs to obtain decomposition candidates as well as to select from them via voting (ranking with LLM-as-judge).</span></p>
+
+<p>     📜 <a href="https://github.com/hankelvin/grpo_qud_generation">generating Questions under Discussion (QUD)</a> <label for="sidenote-qud" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sidenote-qud" class="margin-toggle" checked="" /><span class="sidenote">Here I proposed using reinforcement learning (GRPO) to obtain improved question generation that have to meet multiple constraints requiring reasoning over a piece of discourse. <em>QUD is an emerging linguistic framework for representing discourse structure; see <a href="https://aclanthology.org/2025.naacl-long.84.pdf">here</a> for a natural language processed-focused survey.</em></span></p>
+
+<p>     🔢 <a href="https://github.com/hankelvin/captcha_solvers">captcha recognition</a> <label for="sidenote-visual" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sidenote-visual" class="margin-toggle" checked="" /><span class="sidenote">This work is exploratory and was rapidly prototyped, and the images are in a controlled setting. Here I used GRPO with a small set of exemplars to help improve vision language model (VLM) recognition of ambiguous characters.</span></p>
+
+
+    </article>
+    <span class="print-footer">About - Kelvin Han</span>
+    <footer>
+  <hr class="slender">
+  <ul class="footer-links">
+    <!-- <li><a href="mailto:hate@spam.net"><span class="icon-mail3"></span></a></li>     -->
+    
+      <li>
+        <a href="//www.linkedin.com/in/kelvin-han"><span class="icon-linkedin"></span></a>
+      </li>
+    
+      <li>
+        <a href="//www.x.com/kelvinhan"><span class="icon-twitter"></span></a>
+      </li>
+    
+      <li>
+        <a href="//scholar.google.com/citations?user=AuOeIe8AAAAJ&hl=en"><span class="icon-google2"></span></a>
+      </li>
+    
+      <li>
+        <a href="//www.github.com/hankelvin"><span class="icon-github"></span></a>
+      </li>
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2025 &nbsp;&nbsp;KELVIN HAN</span></br> <br>
+<span>This site was created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte-Jekyll</a> theme in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+  </body>
+</html>
