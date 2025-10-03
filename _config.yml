@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 theme: jekyll-theme-tufte
 plugins:
   - jekyll-theme-tufte
-  # - jekyll-sitemap
+  - jekyll-sitemap
   # - jekyll-feed
   # - jemoji
   # - jekyll-include-cache

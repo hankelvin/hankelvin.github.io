@@ -20,6 +20,8 @@ Here's what's positively occupied my attention recently:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌏 Lindgren, Simon (2023). [Critical Theory of AI](https://www.wiley.com/en-us/Critical+Theory+of+AI-p-9781509555789). Polity.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗺️ Agüera y Arcas, Blaise (2025). [Who Are We Now?](https://whoarewenow.net). Hat & Beard Press.
+
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ❓ [Theory of Questions](https://brill.com/display/title/30545), Anna Brożek, 2011, Brill  -->
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ❓ [Reason and Inquiry: The Erotetic Theory](https://academic.oup.com/book/45443), Philipp Koralus, 2022, Oxford University Press -->
@@ -31,9 +33,11 @@ Here's what's positively occupied my attention recently:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [风流一代 (Caught by the Tides)](https://www.imdb.com/title/tt27958252), 贾樟柯 (Jia Zhangke), 2024
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖼️ [Heman Chong: This is a dynamic list and may never be able to satisfy particular standards for completeness](https://www.singaporeartmuseum.sg/art-events/exhibitions/heman-chong), Heman Chong, 2025
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [The Lobster](https://www.imdb.com/title/tt3464902), Yorgos Lanthimos, 2015
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎭 [Singapore, Michigan](https://pangdemonium.com/whats-on-details/singapore-michigan), written by Chong An Ong & directed by Timothy Koh, 2025 -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Jour de fête ((The Big Day))](https://www.imdb.com/title/tt0040497), Jacques Tati, 1949
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖼️ [Heman Chong: This is a dynamic list and may never be able to satisfy particular standards for completeness](https://www.singaporeartmuseum.sg/art-events/exhibitions/heman-chong), Heman Chong, 2025
 
 <!-- ######################################### -->
 <br/> 
