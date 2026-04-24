@@ -64,6 +64,9 @@ Here's what's positively occupied my attention recently:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎭 [Iphigénie en Tauride (Iphigenia in Tauris)](https://theoperapeople.com/), Christoph Willibald Gluck, 1779; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Shou Chen with The Opera People with and Wayfarer Sinfonietta, Wild Rice Ngee Ann Kongsi Theatre, 2025
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👯 [Fase, Four Movements to the Music of Steve Reich](https://www.sistic.com.sg/events/fase0426), Anne Teresa De Keersmaeker / Rosas, 1982
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Danced by: Laura Bachman, Yuika Hashimoto, Singtel Waterfront Theatre at Esplanade, 2026
+
 <!-- ######################################### -->
 <br> 
 📸 ... and here are some snaps (not all recent)
