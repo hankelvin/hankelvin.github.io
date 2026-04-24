@@ -4,6 +4,9 @@
   <body>
     {% include header.html %}
     <article class="group">
+      {% if page.video %}
+        {% include video.html src=page.video caption=page.video_caption %}
+      {% endif %}
       {{ content }}
     </article>
     {% include print-footer.html %}

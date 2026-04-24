@@ -4,6 +4,9 @@
   <body class="full-width">
     {% include header.html %}
     <article>
+      {% if page.video %}
+        {% include video.html src=page.video caption=page.video_caption %}
+      {% endif %}
       {{ content }}
     </article>
     {% include print-footer.html %}

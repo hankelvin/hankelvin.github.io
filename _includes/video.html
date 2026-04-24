@@ -1,0 +1,101 @@
+{% if include.src %}
+{% assign col = include.column | default: "main" %}
+
+{% if col == "side" %}
+  <label for="{{ include.id }}" class="margin-toggle">⊕</label>
+  <input type="checkbox" id="{{ include.id }}" class="margin-toggle"/>
+  <span class="marginnote">
+{% endif %}
+
+<figure class="video-figure video-figure--{{ col }}">
+  <video muted playsinline class="video-player">
+    <source src="{{ include.src | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  {% if include.caption %}
+  <figcaption class="video-caption video-caption--{{ col }}">{{ include.caption }}</figcaption>
+  {% endif %}
+</figure>
+
+{% if col == "side" %}
+  </span>
+{% endif %}
+
+<style>
+.video-figure--main {
+  margin: 2rem 0;
+}
+
+.video-figure--side {
+  margin: 0;
+}
+
+.video-figure--side .video-player {
+  max-width: 100%;
+}
+
+.video-player {
+  width: 100%;
+  height: auto;
+  display: block;
+  opacity: 0;
+}
+
+.video-caption {
+  margin-top: 0.5rem;
+  color: #666;
+  font-style: italic;
+  text-align: left;
+}
+
+.video-caption--main {
+  font-size: 0.9rem;
+}
+
+.video-caption--side {
+  font-size: 0.85rem;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const videos = document.querySelectorAll('.video-player');
+
+  videos.forEach(video => {
+    const fadeTime = 5000;
+    video.playbackRate = 0.5;
+
+    video.style.opacity = '0';
+    video.style.transition = 'none';
+
+    video.style.transition = `opacity ${fadeTime}ms linear`;
+    video.style.opacity = '1';
+
+    setTimeout(() => {
+      video.style.transition = 'none';
+      video.play();
+    }, fadeTime);
+
+    video.addEventListener('ended', function() {
+      video.style.transition = `opacity ${fadeTime}ms linear`;
+      video.style.opacity = '0';
+
+      setTimeout(() => {
+        video.currentTime = 0;
+        video.style.transition = 'none';
+
+        setTimeout(() => {
+          video.style.transition = `opacity ${fadeTime}ms linear`;
+          video.style.opacity = '1';
+
+          setTimeout(() => {
+            video.style.transition = 'none';
+            video.play();
+          }, fadeTime);
+        }, 50);
+      }, fadeTime);
+    });
+  });
+});
+</script>
+{% endif %}

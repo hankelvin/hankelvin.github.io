@@ -4,5 +4,7 @@ layout: default
 <h1>{{ page.title}}</h1>
 <p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-
+{% if page.video %}
+    {% include video.html src=page.video caption=page.video_caption %}
+{% endif %}
 {{ content }}
