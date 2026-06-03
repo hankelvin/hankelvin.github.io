@@ -4,7 +4,7 @@ title: About
 ---
 
 
-👋 Hi! My name is Kelvin, I have been working since 2020, on ways to automatically process questions (generating, decomposing and answering ❓❓❓), from text, from knowledge graph, simple to complex. 
+👋 Hi! My name is Kelvin, I have been working since 2020, on ways to automatically process questions (generating, decomposing and answering ❓❓❓), from text, from knowledge graph, simple to complex. Since May 2026, I have been a research fellow at the [Singapore Institute of Technology](https://www.singaporetech.edu.sg) for an online trust & safety project, under principal investigators [Ian McLoughlin](https://sites.google.com/view/mcloughlin/about) and [Tong Rong](https://sites.google.com/view/tong-rong/home).
 
 I did my PhD (on question generation, naturally) at the [Université de Lorraine](https://www.univ-lorraine.fr/en/univ-lorraine/) in the lovely city of [Nancy, France](https://en.wikipedia.org/wiki/Nancy,_France) under the supervision of [Claire Gardent](https://members.loria.fr/CGardent) and [Thiago Castro Ferreira](https://scholar.google.com/citations?user=WvXZlDIAAAAJ). My PhD was carried out under [Project QUANTUM](https://anr.fr/Project-ANR-19-CE23-0025) which was funded by the French National Research Agency (_Agence National de Recherche, ANR_), and I was part of the [Synalp](https://synalp.gitlabpages.inria.fr/synalp-website) team (now within the MosAIk group) at the [LORIA](https://www.loria.fr/en/) (_Laboratoire lorrain de Recherche en Informatique et ses Applications_) laboratory. 
 

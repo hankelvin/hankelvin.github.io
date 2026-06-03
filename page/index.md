@@ -44,24 +44,30 @@ Here's what's positively occupied my attention recently:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Matthew Barney: No Restraint](https://www.imdb.com/title/tt0481574), Alison Chernick, 2006
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Chocolat](https://www.imdb.com/title/tt0094868/), Claire Denis, 1988
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Chocolat](https://www.imdb.com/title/tt0094868), Claire Denis, 1988
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Նռան գույնը (The Colour of Pomegranates)](https://www.imdb.com/title/tt0063555), Սերգեյ Փարաջանյան (Sergei Parajanov), 1969
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Русский ковчег (Russian Ark)](https://www.imdb.com/title/tt0318034), Александр Сокуров (Alexander Sokurov), 2002
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Sirāt](https://www.imdb.com/title/tt32298285/), Oliver Laxe, 2025 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Sirāt](https://www.imdb.com/title/tt32298285), Oliver Laxe, 2025 
 <!-- <span style="font-size: 0.6em;">This film is visually stunning with a banger of script, plot turns, storytelling and cast of characters. There were scenes that evoke David Lynch's [Lost Highway](https://www.imdb.com/title/tt0116922/) (solitary vehicle piercing through the deep dark night) and William Friedkin's [Sorcerer](https://www.imdb.com/title/tt0076740) (high-stakes navigation through mountains and narrow passes with explosive baggage). </span> -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [قهرمان (A Hero)](https://www.imdb.com/title/tt11777738/), اصغر فرهادی (Asghar Farhadi), 2021
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [قهرمان (A Hero)](https://www.imdb.com/title/tt11777738), اصغر فرهادی (Asghar Farhadi), 2021
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [O Agente Secreto (The Secret Agent)](https://www.imdb.com/title/tt27847051/), Kleber Mendonça Filho, 2025
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [O Agente Secreto (The Secret Agent)](https://www.imdb.com/title/tt27847051), Kleber Mendonça Filho, 2025
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Linka Linka (一个夜晚与三个夏天)](https://www.imdb.com/title/tt38574217), གངས་སྒྲོན་ (Kangdrun), 2025
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [狮子城 (The Lion City)](https://www.imdb.com/title/tt4834684), Yi Sui/Tang Bo Qi, 1960
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎞️ [Ryuichi Sakamoto: Opus](https://www.imdb.com/title/tt28490873), Neo Sora, 2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖼️ [Heman Chong: This is a dynamic list and may never be able to satisfy particular standards for completeness](https://www.singaporeartmuseum.sg/art-events/exhibitions/heman-chong), Heman Chong, 2025
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🖼️ [Rirkrit Tiravanija: SAY YES TO EVERYTHING](https://www.stpi.com.sg/whats-on/rirkrit-tiravanija-say-yes-to-everything), Rirkrit Tiravanija, 2026
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎭 [Iphigénie en Tauride (Iphigenia in Tauris)](https://theoperapeople.com/), Christoph Willibald Gluck, 1779; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎭 [Iphigénie en Tauride (Iphigenia in Tauris)](https://theoperapeople.com), Christoph Willibald Gluck, 1779; <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tan Shou Chen with The Opera People with and Wayfarer Sinfonietta, Wild Rice Ngee Ann Kongsi Theatre, 2025
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 👯 [Fase, Four Movements to the Music of Steve Reich](https://www.sistic.com.sg/events/fase0426), Anne Teresa De Keersmaeker / Rosas, 1982; <br>
